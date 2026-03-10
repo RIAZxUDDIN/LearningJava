@@ -1,0 +1,95 @@
+#################################
+# IntelliJ IDEA
+#################################
+.idea/
+*.iml
+*.ipr
+*.iws
+
+#################################
+# Eclipse
+#################################
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache
+
+#################################
+# NetBeans
+#################################
+/nbproject/private/
+/nbbuild/
+/nbdist/
+/.nb-gradle/
+
+#################################
+# VS Code
+#################################
+.vscode/
+
+#################################
+# Java (General)
+#################################
+*.class
+*.jar
+*.war
+*.ear
+hs_err_pid*
+replay_pid*
+
+# Gradle
+.gradle/
+!gradle-wrapper.jar
+
+#################################
+# C / C++ (VS Code / GCC / Clang)
+#################################
+# Object files
+*.o
+*.obj
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Compiled libraries
+*.so
+*.dylib
+*.dll
+*.a
+*.lib
+
+# Executables (Linux/Mac/Windows)
+*.exe
+*.out
+*.app
+a.out
+
+#################################
+# Build Artifacts (All languages)
+#################################
+build/
+dist/
+out/
+bin/
+target/
+CMakeFiles/
+cmake-build-*/
+CMakeCache.txt
+
+#################################
+# OS-specific
+#################################
+.DS_Store
+Thumbs.db
+
+#################################
+# General temporary / backups
+#################################
+*.log
+*~
+*.swp
+*.swo
